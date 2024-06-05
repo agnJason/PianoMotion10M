@@ -105,7 +105,7 @@ def main():
 
     # scale for position
     scale = torch.tensor([1.5, 1.5, 25]).cuda()
-
+    best_score = 999999
     pbar = tqdm(range(start_iter, args.iterations))
     iter_train = iter(train_loader)
     last_checkpoint_path = None
@@ -218,11 +218,13 @@ def main():
             tb_writer.add_scalar("eval/rec", np.mean(rec_losss), iteration)
             tb_writer.add_scalar("eval/vel", np.mean(vel_losss), iteration)
             if iteration % args.save_every_n_iteration == 0  or iteration == args.iterations - 1:
-                if last_checkpoint_path is not None:  ## To save storage
-                    os.system(f'rm {last_checkpoint_path}')
-                last_checkpoint_path = out_dire + '/piano2posi-iter=%d-val_loss=%.16f.ckpt' % (iteration, np.mean(losss))
-                torch.save({'state_dict': model.module.state_dict(), 'hyper_parameters': args},
-                        last_checkpoint_path)
+                if np.mean(losss) < best_score:
+                    best_score = np.mean(losss)
+                    if last_checkpoint_path is not None:  ## To save storage
+                        os.system(f'rm {last_checkpoint_path}')
+                    last_checkpoint_path = out_dire + '/piano2posi-iter=%d-val_loss=%.16f.ckpt' % (iteration, best_score)
+                    torch.save({'state_dict': model.module.state_dict(), 'hyper_parameters': args},
+                            last_checkpoint_path)
 
 
 if __name__ == "__main__":
