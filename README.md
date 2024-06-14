@@ -8,7 +8,7 @@
 
 (<sup>:email:</sup>) corresponding author.
 
-ArXiv Preprint (arXiv Coming Soon!) &nbsp;&nbsp;&nbsp;&nbsp; [Project Page](https://agnjason.github.io/PianoMotion-page/) &nbsp;&nbsp;&nbsp;&nbsp; [Dataset](https://drive.google.com/drive/folders/1JY0zOE0s7v9ZYLlIP1kCZUdNrih5nYEt?usp=sharing)
+[ArXiv Preprint](https://arxiv.org/abs/2406.09326) &nbsp;&nbsp;&nbsp;&nbsp; [Project Page](https://agnjason.github.io/PianoMotion-page/) &nbsp;&nbsp;&nbsp;&nbsp; [Dataset](https://drive.google.com/drive/folders/1JY0zOE0s7v9ZYLlIP1kCZUdNrih5nYEt?usp=sharing)
 
 </div>
 
