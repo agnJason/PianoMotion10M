@@ -14,6 +14,7 @@
 
 #
 ### News
+* **`Jun. 14th, 2024`:** Paper is available at [arxiv](https://arxiv.org/abs/2406.09326). ☕️
 * **`Jun. 1st, 2024`:** We released our code and datasets! Paper is coming soon. Please stay tuned! ☕️
 
 ## Abstract
