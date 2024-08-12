@@ -32,7 +32,9 @@ Overview of our framework. We collect videos of expert piano performances from t
 
 Sample results of our generation model.
 
-<video src="./assets/sample_out.mp4" controls="controls" width="500" height="300">您的浏览器不支持播放该视频！</video>
+https://github.com/user-attachments/assets/53378820-4749-4d23-8e8e-a55b544bba98
+
+
 
 
 > Results from the [PianoMotion10M paper]()
