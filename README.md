@@ -29,6 +29,12 @@ Recently, artificial intelligence techniques for education have been received in
 Overview of our framework. We collect videos of expert piano performances from the internet and annotated and processed them to obtain a large-scale dataset, PianoMotion10M, comprising piano music and hand motions. Building upon this dataset, we establish a benchmark aimed at generating hand movements from piano music.
 
 ## Models
+
+Sample results of our generation model.
+
+<video src="./assets/sample_out.mp4" controls="controls" width="500" height="300">您的浏览器不支持播放该视频！</video>
+
+
 > Results from the [PianoMotion10M paper]()
 
 
