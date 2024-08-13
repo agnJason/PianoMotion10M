@@ -32,14 +32,11 @@ Overview of our framework. We collect videos of expert piano performances from t
 
 Sample results of our generation model.
 
-https://github.com/user-attachments/assets/53378820-4749-4d23-8e8e-a55b544bba98
+https://github.com/user-attachments/assets/f346608b-cfe3-4984-a39a-c8ae5794f7bf
 
 https://github.com/user-attachments/assets/1bed9659-a88d-4b84-8a16-f787ad0de822
 
-https://github.com/user-attachments/assets/f346608b-cfe3-4984-a39a-c8ae5794f7bf
-
-
-
+https://github.com/user-attachments/assets/8860cf2e-1146-45ca-8d96-59ac161fdc03
 
 
 
