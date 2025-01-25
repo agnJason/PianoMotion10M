@@ -1,5 +1,5 @@
 <div align="center">
-<h1><img src="assets/favicon.png" width="50"> PianoMotion10M </h1>
+<h1><img src="assets/favicon.png" width="50"> [ICLR2025] PianoMotion10M </h1>
 <h3>Dataset and Benchmark for Hand Motion Generation in Piano Performance</h3>
 
 [Qijun Gan](https://github.com/agnJason)<sup>1</sup>, [Song Wang](https://songw-zju.github.io/)<sup>1</sup>, Shengtao Wu<sup>2</sup> ,[Jianke Zhu](https://scholar.google.cz/citations?user=SC-WmzwAAAAJ)<sup>1</sup> <sup>:email:</sup>
