@@ -1,5 +1,5 @@
 <div align="center">
-<h1><img src="assets/favicon.png" width="50"> [ICLR2025] PianoMotion10M </h1>
+<h1><img src="assets/favicon.png" width="50"> [ICLR2025 Spotlight] PianoMotion10M </h1>
 <h3>Dataset and Benchmark for Hand Motion Generation in Piano Performance</h3>
 
 [Qijun Gan](https://github.com/agnJason)<sup>1</sup>, [Song Wang](https://songw-zju.github.io/)<sup>1</sup>, Shengtao Wu<sup>2</sup> ,[Jianke Zhu](https://scholar.google.cz/citations?user=SC-WmzwAAAAJ)<sup>1</sup> <sup>:email:</sup>
@@ -14,7 +14,7 @@
 
 #
 ### News
-* **`Jan. 23th, 2025`:** Paper is accepted by ICLR 2025!
+* **`Jan. 23th, 2025`:** Paper is accepted by ICLR 2025 (Spotlight)!
 * **`Jun. 14th, 2024`:** Paper is available at [arxiv](https://arxiv.org/abs/2406.09326). ☕️
 * **`Jun. 1st, 2024`:** We released our code and datasets! Paper is coming soon. Please stay tuned! ☕️
 
