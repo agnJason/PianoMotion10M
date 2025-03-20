@@ -2,18 +2,19 @@
 <h1><img src="assets/favicon.png" width="50"> [ICLR2025 Spotlight] PianoMotion10M </h1>
 <h3>Dataset and Benchmark for Hand Motion Generation in Piano Performance</h3>
 
-[Qijun Gan](https://github.com/agnJason)<sup>1</sup>, [Song Wang](https://songw-zju.github.io/)<sup>1</sup>, Shengtao Wu<sup>2</sup> ,[Jianke Zhu](https://scholar.google.cz/citations?user=SC-WmzwAAAAJ)<sup>1</sup> <sup>:email:</sup>
+[Qijun Gan](https://agnjason.github.io/)<sup>1</sup>, [Song Wang](https://songw-zju.github.io/)<sup>1</sup>, Shengtao Wu<sup>2</sup> ,[Jianke Zhu](https://scholar.google.cz/citations?user=SC-WmzwAAAAJ)<sup>1</sup> <sup>:email:</sup>
  
 <sup>1</sup> Zhejiang University, <sup>2</sup> Hangzhou Dianzi University
 
 (<sup>:email:</sup>) corresponding author.
 
-[ArXiv Preprint](https://arxiv.org/abs/2406.09326) &nbsp;&nbsp;&nbsp;&nbsp; [Project Page](https://agnjason.github.io/PianoMotion-page/) &nbsp;&nbsp;&nbsp;&nbsp; Dataset[[Google Drive](https://drive.google.com/drive/folders/1JY0zOE0s7v9ZYLlIP1kCZUdNrih5nYEt?usp=sharing)]/[[Hyper.ai](https://hyper.ai/datasets/32494)]/[[zenodo](https://zenodo.org/records/13297386)]
+[Paper](https://openreview.net/pdf?id=rxVvRBgqmS) &nbsp;&nbsp;&nbsp;&nbsp; [Project Page](https://agnjason.github.io/PianoMotion-page/) &nbsp;&nbsp;&nbsp;&nbsp; Dataset[[Google Drive](https://drive.google.com/drive/folders/1JY0zOE0s7v9ZYLlIP1kCZUdNrih5nYEt?usp=sharing)]/[[Hyper.ai](https://hyper.ai/datasets/32494)]/[[zenodo](https://zenodo.org/records/13297386)] &nbsp;&nbsp;&nbsp;&nbsp; Model[[HuggingFace](https://huggingface.co/agnJason/PianoMotion_models)]
 
 </div>
 
 #
 ### News
+* **`Mar. 20th, 2025`:** Checkpoints of our experiment are released [here](https://huggingface.co/agnJason/PianoMotion_models)!
 * **`Jan. 23th, 2025`:** Paper is accepted by ICLR 2025 (Spotlight)!
 * **`Jun. 14th, 2024`:** Paper is available at [arxiv](https://arxiv.org/abs/2406.09326). ☕️
 * **`Jun. 1st, 2024`:** We released our code and datasets! Paper is coming soon. Please stay tuned! ☕️
