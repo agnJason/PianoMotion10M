@@ -99,7 +99,7 @@ def acceleration(joint):
     movement = joint[:-1] - joint[-1:]
     speed = np.sqrt((movement ** 2).sum(1)) # N-1, J
     acc = speed[:-1] - speed[-1:] # N-2, J
-    return acc
+    return np.mean(acc)
 
 def apply_pca(data, n_components=10):
     """
